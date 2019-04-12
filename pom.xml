@@ -23,9 +23,11 @@
     </properties>
 
     <modules>
-        <module>
-            eureka-demo
-        </module>
+        <module>eureka-demo</module>
+        <module>config-demo</module>
+        <module>client-demo</module>
+        <module>service-demo</module>
+        <module>zipkin-demo</module>
     </modules>
 
     <dependencies>
